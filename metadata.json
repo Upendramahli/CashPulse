@@ -1,0 +1,6 @@
+{
+  "name": "CashPulse",
+  "description": "Money earning application with Home, Refer & Earn, Wallet, Profile, and Admin Panel tabs",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

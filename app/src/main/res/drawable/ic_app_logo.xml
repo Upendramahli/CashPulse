@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Outer Shield Background -->
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="M50,4 C72,4 91,21 95,43 C99,65 83,87 63,94 C43,101 19,87 12,66 C5,45 25,12 50,4 Z" />
+    <!-- Wallet Body -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M24,42 L76,42 C79.3,42 82,44.7 82,48 L82,74 C82,77.3 79.3,80 76,80 L24,80 C20.7,80 18,77.3 18,74 L18,48 C18,44.7 20.7,42 24,42 Z" />
+    <!-- Wallet Flap / Pocket Line -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M18,52 L82,52 L82,58 L18,58 Z" />
+    <!-- Wallet Clasp / Button -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M46,55 L54,55 C55.1,55 56,55.9 56,57 L56,61 C56,62.1 55.1,63 54,63 L46,63 C44.9,63 44,62.1 44,61 L44,57 C44,55.9 44.9,55 46,55 Z" />
+    <!-- Banknote / Cash sticking out of the wallet -->
+    <path
+        android:fillColor="#81C784"
+        android:pathData="M30,30 L70,30 C72.2,30 74,31.8 74,34 L74,44 L26,44 L26,34 C26,31.8 27.8,30 30,30 Z" />
+    <!-- Dollar sign ($) on the banknote -->
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="M50,33 C48.3,33 47,34.3 47,36 C47,37.7 48.3,39 50,39 L51,39 C52.1,39 53,39.9 53,41 C53,42.1 52.1,43 51,43 L49,43 C47.9,43 47,42.1 47,41 L44,41 C44,43.8 46.2,46 49,46 L49,48 L51,48 L51,46 C53.8,46 56,43.8 56,41 C56,38.2 53.8,36 51,36 L50,36 C48.9,36 48,35.1 48,34 C48,32.9 48.9,32 50,32 L52,32 C53.1,32 54,32.9 54,34 L57,34 C57,31.2 54.8,29 52,29 L52,27 L50,27 L50,29 C47.2,29 45,31.2 45,34 L47,34 Z" />
+    <!-- Shiny Gold Coin beside the wallet -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M72,66 C79.7,66 86,72.3 86,80 C86,87.7 79.7,94 72,94 C64.3,94 58,87.7 58,80 C58,72.3 64.3,66 72,66 Z" />
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M72,68 C78.6,68 84,73.4 84,80 C84,86.6 78.6,92 72,92 C65.4,92 60,86.6 60,80 C60,73.4 65.4,68 72,68 Z" />
+</vector>
